@@ -1,4 +1,4 @@
-number_one = 6
+number_one = 
 number_two = 3
 
 
@@ -12,7 +12,12 @@ sumar = number_one + number_two
 print(sumar)
 
 """
-
-
+"""
+this is rest 
 resta = number_one = number_two
 print(resta)
+
+"""
+
+# multiplicacion = number_one * number_two
+# print(multiplicacion )
